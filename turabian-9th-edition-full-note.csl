@@ -5,10 +5,7 @@
     <id>http://www.zotero.org/styles/turabian-9th-edition-full-note</id>
     <link href="http://www.zotero.org/styles/turabian-9th-edition-full-note" rel="self"/>
     <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
-    <author>
-      <name>B. van der Perk</name>
-      <email>bpower0036@gmail.com</email>
-    </author>
+    <link href="https://editor.citationstyles.org/codeEditor/"/>
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
