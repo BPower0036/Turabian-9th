@@ -9,7 +9,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
-    <updated>2021-03-04T15:16:54+00:00</updated>
+    <updated>2021-11-06T14:18:00+10:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -40,6 +40,7 @@
       <term name="line" form="short">r.</term>
       <term name="book" form="short">bk.</term>
       <term name="edition" form="short">dr.</term>
+      <term name="version">versie</term>
       <term name="ordinal">ste</term>
       <term name="ordinal-02">de</term>
       <term name="ordinal-03">de</term>
