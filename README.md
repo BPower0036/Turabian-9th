@@ -6,3 +6,6 @@ This is citation style you can add to Zotero or Jurism. (@zotero / @Juris-M Proj
 This is the Notes-Bibliography style of Turabian for making citations in the Dutch language.
 
 If I did something wrong, let me know by opening a issue.
+
+## Normal.dotm
+To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\*****\AppData\Roaming\Microsoft\Templates\`
