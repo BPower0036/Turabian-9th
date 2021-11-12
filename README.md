@@ -1,6 +1,6 @@
 # Turabian-9th-Dutch
 Citation style Turabian 9th edition for Dutch language </br>
-This is citation style you can add to Zotero or Jurism. (@zotero / @Juris-M Project)  </br>
+This is citation style you can add to Zotero or Juris-M. ([@zotero](https://github.com/zotero) / [@Juris-M Project)](https://github.com/Juris-M)  </br>
 This is the Notes-Bibliography style of Turabian for making citations in the Dutch language. </p>
 If I did something wrong, let me know by opening a issue.
 
