@@ -8,7 +8,8 @@ If I did something wrong, let me know by opening a issue.
 To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\*****\AppData\Roaming\Microsoft\Templates\`
 
 ## Building Blocks.dotx
-To get the index needed when using Turabian 9th edition, put this file in the following folder (works with Microsoft Word 2019): `C:\Users\E******\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\`
+To get the index needed when using Turabian 9th edition, put this file in the following folder (works with Microsoft Word 2019): `C:\Users\E******\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\` </br>
+*Found out that this is not necessary*
 
 ***
 ### *Note*
