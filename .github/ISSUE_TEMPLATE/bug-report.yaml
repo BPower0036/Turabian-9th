@@ -3,8 +3,7 @@ description: Create a report to help me improve
 labels: bug
 body:
   - type: checkboxes
-    attributes:
-      label: Prerequirements
+    label: Prerequirements
     options:
       - label: Used to must recent version of `Turabian 9th Dutch`
         required: true
