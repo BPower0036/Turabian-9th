@@ -4,10 +4,10 @@ labels: bug
 body:
 - type: checkboxes
   attributes:
-    label: Prerequirements
-  options:
-    - label: Used to must recent version of `Turabian 9th Dutch`
-      required: true
+    label: Prerequirement
+    options:
+      - label: I use to most recent version of `Turabian 9th Dutch`
+        required: true
 
 - type: textarea
   attributes:
