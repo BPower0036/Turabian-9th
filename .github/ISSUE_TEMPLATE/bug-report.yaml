@@ -6,7 +6,7 @@ body:
   attributes:
     label: Prerequirement
     options:
-      - label: I use to most recent version of `Turabian 9th Dutch`
+      - label: "I use to most recent version of [`Turabian 9th Dutch`](https://github.com/BPower0036/Turabian-9th-Dutch/blob/main/turabian-9th-edition-full-note.csl)"
         required: true
 
 - type: textarea
