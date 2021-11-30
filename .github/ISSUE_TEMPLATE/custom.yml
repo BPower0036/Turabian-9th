@@ -1,9 +1,9 @@
 name: Questions
 description: To use when you have questions
 body:
-- textarea:
+- type: markdown
   atributes:
-    description: Your Question
+    value: Your Question(s)
   validate:
     required: true
 
