@@ -25,12 +25,7 @@
       <term name="translator" form="verb">Vertaald door</term>
       <term name="editortranslator" form="verb-short">red. en vert.</term>
       <term name="editortranslator" form="verb">Onder redactie van en vertaald door</term>
-      <term name="and" form="">en</term>
-      <term name="et-al">e.a.</term>
-      <term name="accessed">geraadpleegd</term>
-      <term name="presented at">gepresenteerd op</term>
-      <term name="no date" form="short">z.d.</term>
-      <term name="letter">brief</term>
+      <term name="edition" form="short">dr.</term>
       <term name="issue" form="short" plural="false">nr.</term>
       <term name="part" form="short">dl.</term>
       <term name="chapter" form="short">hfdst.</term>
@@ -39,7 +34,13 @@
       <term name="figure" form="short">fig.</term>
       <term name="line" form="short">r.</term>
       <term name="book" form="short">bk.</term>
-      <term name="edition" form="short">dr.</term>
+      <term name="and" form="">en</term>
+      <term name="at">op</term>
+      <term name="et-al">e.a.</term>
+      <term name="accessed">geraadpleegd</term>
+      <term name="presented at">gepresenteerd op</term>
+      <term name="no date" form="short">z.d.</term>
+      <term name="letter">brief</term>
       <term name="version">versie</term>
       <term name="ordinal">ste</term>
       <term name="ordinal-02">de</term>
