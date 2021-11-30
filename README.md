@@ -5,11 +5,11 @@ This is the Notes-Bibliography style of Turabian for making citations in the Dut
 If I did something wrong, let me know by opening a issue.
 
 ## Normal.dotm
-To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\******\AppData\Roaming\Microsoft\Templates\` </br>
+To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\_username_\AppData\Roaming\Microsoft\Templates\` </br>
 #### Mac
 When using Apple's Macbook, it is a little bit different. </br>
-Go to `/Users/******/Library/GroupContainers/UBF8T346G9.Office/UserContent/Templates` </br>
-`(/Gebruikers/******/Bibliotheek/Groepscontainers/UBF8T346G9.Office/Gebruikersinhoud/Sjablonen)` and put it there.
+Go to `/Users/_username_/Library/GroupContainers/UBF8T346G9.Office/UserContent/Templates` </br>
+`(/Gebruikers/_gebruikersnaam_/Bibliotheek/Groepscontainers/UBF8T346G9.Office/Gebruikersinhoud/Sjablonen)` and put it there.
 > **Note:** If you are using Mac OS X 10.7 (Lion), the Library folder is hidden by default. </br>
 > To browse to the Library folder from the dialog *Open*, </br>
 > press `COMMAND + SHIFT + G` and type in the box *Go to Folder* the text: `~/Library`. (See: [Microsoft](https://support.microsoft.com/nl-nl/office/standaardinstellingen-voor-nieuwe-documenten-wijzigen-430b4132-e129-46e4-97d2-19c326352c7f)) </p>
@@ -21,7 +21,7 @@ See also [answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/fo
 
 ## Building Blocks.dotx
 To get the index needed when using Turabian 9th edition, put this file in the following folder (works with Microsoft Word 2019): </br>
-`C:\Users\******\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\` </br>
+`C:\Users\_username_\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\` </br>
 *Found out that this is not necessary*
 
 ***
