@@ -41,7 +41,9 @@ body:
     value: |
       <details>
       <summary>Screenshot(s)</summary>
+      
       <!-- Put your screenshot(s) here -->
+      
       </details>
   validations:
     required: false
