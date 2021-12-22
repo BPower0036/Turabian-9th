@@ -21,9 +21,9 @@ See also [answers.microsoft.com](https://answers.microsoft.com/en-us/msoffice/fo
 > Instead, allow the Mac version to work from its own native Normal.dotm template. Use `Organizer` to import: </br>
 > Styles, AutoText, Macros from the foreign Normal template to the native template. [Note that there also is a page in the `Organizer` for Toolbars, but toolbars aren't supported in O2016.]
 
-## Building Blocks.dotx
-~~To get the index needed when using Turabian 9th edition, put this file in the following folder (works with Microsoft Word 2019):~~ </br>
-~~`C:\Users\_username_\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\`~~ </br>
+## ~~Building Blocks.dotx 
+To get the index needed when using Turabian 9th edition, put this file in the following folder (works with Microsoft Word 2019): </br>
+`C:\Users\_username_\AppData\Roaming\Microsoft\Document Building Blocks\1043\16\`~~ </br>
 *Found out that this is not necessary*
 
 ***
