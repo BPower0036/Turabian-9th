@@ -25,4 +25,4 @@ To get the index needed when using Turabian 9th edition, put this file in the fo
 
 ***
 ### *Note*
-*This repositorie is only useable for the Dutch language, unless you change things yourself.*
+*This repositorie is only useable for the Dutch language, unless you change every translation I made in the `.csl` file yourself.*
