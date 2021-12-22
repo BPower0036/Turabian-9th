@@ -5,7 +5,10 @@ This is the Notes-Bibliography style of Turabian for making citations in the Dut
 If I did something wrong, let me know by opening a issue.
 
 ## Normal.dotm
-To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\_username_\AppData\Roaming\Microsoft\Templates\` </br>
+To get the Turabian styles in Microsoft Word, put this file in the following folder: `C:\Users\_username_\AppData\Roaming\Microsoft\Templates\`
+> **Note:** The AppData folder is hidden dy default in Windows. <br>
+> Browse to `C:\Users\_username_`, click *Window* in the menubar and select *Hidden Items* in the right of the bar.
+
 #### Mac
 When using Apple's Macbook, it is a little bit different. </br>
 Go to `/Users/_username_/Library/GroupContainers/UBF8T346G9.Office/UserContent/Templates` </br>
