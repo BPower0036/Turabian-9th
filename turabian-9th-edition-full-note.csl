@@ -9,7 +9,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
-    <updated>2021-12-08T21:08:00+00:00</updated>
+    <updated>2022-03-29T16:00:00+00:00</updated>
     <rights license="https://mit-license.org/license.txt">This work is licensed under a MIT License</rights>
   </info>
   <locale xml:lang="en">
@@ -86,7 +86,7 @@
           <if variable="container-author reviewed-author" match="any">
             <group>
               <names variable="container-author reviewed-author">
-                <label form="verb-short" text-case="lowercase" suffix=" "/>
+                <label form="short" text-case="lowercase" suffix=" "/>
                 <name and="text" delimiter=", "/>
               </names>
             </group>
@@ -132,7 +132,7 @@
               <choose>
                 <if variable="container-author" match="any">
                   <names variable="container-author">
-                    <label form="verb-short" text-case="lowercase" suffix=" "/>
+                    <label form="short" text-case="lowercase" suffix=" "/>
                     <name and="text" delimiter=", "/>
                   </names>
                 </if>
