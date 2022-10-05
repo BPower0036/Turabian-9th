@@ -9,7 +9,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
-    <updated>2022-06-02T10:09:00+00:00</updated>
+    <updated>2022-10-05T12:10:00+00:00</updated>
     <rights license="https://mit-license.org/license.txt">This work is licensed under a MIT License</rights>
   </info>
   <locale xml:lang="en">
@@ -1116,7 +1116,7 @@
       <else-if type="article-newspaper">
         <text macro="issued"/>
       </else-if>
-      <else-if type="manuscript thesis speech" match="any">
+      <else-if type="manuscript speech" match="any">
         <group delimiter=", " prefix="(" suffix=")">
           <choose>
             <if variable="title" match="any">
@@ -1125,6 +1125,18 @@
           </choose>
           <text variable="event"/>
           <text variable="event-place"/>
+          <text variable="publisher"/>
+          <text macro="issued"/>
+        </group>
+      </else-if>
+      <else-if type="thesis" match="any">
+        <group delimiter=", " prefix="(" suffix=")">
+          <choose>
+            <if variable="title" match="any">
+              <text variable="genre"/>
+            </if>
+          </choose>
+          <text variable="event"/>
           <text variable="publisher"/>
           <text macro="issued"/>
         </group>
@@ -1345,11 +1357,8 @@
             <text macro="contributors-short"/>
             <group delimiter=" ">
               <group delimiter=", ">
-                <choose>
-                  <if variable="author editor translator" match="none">
-                    <text macro="title-short"/>
-                  </if>
-                </choose>
+                <text macro="title-short"/>
+                <text macro="date-disambiguate"/>
                 <text macro="case-locator-subsequent"/>
               </group>
               <text macro="case-pinpoint-subsequent"/>
