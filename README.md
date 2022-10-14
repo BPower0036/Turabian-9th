@@ -1,7 +1,7 @@
 # Turabian-9th
-Citation style Turabian 9th edition for Dutch or English language </br>
-This is citation style you can add to Zotero or Juris-M. ([@zotero](https://github.com/zotero) / [@Juris-M Project)](https://github.com/Juris-M)  </br>
-This is the Notes-Bibliography style of Turabian for making citations in the Dutch or English language.
+Citation styles of Turabian 9th edition for Dutch or English language </br>
+These are citations style you can add to Zotero or Juris-M. ([@zotero](https://github.com/zotero) / [@Juris-M Project)](https://github.com/Juris-M) </br>
+This is the Notes-Bibliography style of Turabian for making citations in the Dutch or English language. </br>
 You have currently five options:
  - [`Turabian 9th edition (full note)`](https://raw.githubusercontent.com/BPower0036/Turabian-9th/main/turabian-9th-edition-fullnote.csl)
  - [`Turabian 9th Edition (full note) [Dutch]`](https://raw.githubusercontent.com/BPower0036/Turabian-9th/main/turabian-9th-edition-fullnote-dutch.csl)
