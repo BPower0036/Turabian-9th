@@ -15,4 +15,4 @@ If I did something wrong, let me know by opening a issue.
 To install the citation style, just open it with Zotero or Juris-M.
 
 ## Template
-To use the Turabbian style in Microsoft Word use to `Turabian Template.dotx`
+To use the Turabian style in Microsoft Word use to `Turabian Template.dotx`
